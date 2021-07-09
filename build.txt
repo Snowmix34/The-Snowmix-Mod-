@@ -1,0 +1,3 @@
+displayName = The Snow mod!
+author = Snowmix
+version = 0.1
